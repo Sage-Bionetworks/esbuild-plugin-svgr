@@ -1,5 +1,5 @@
 {
-    "name": "esbuild-plugin-svgr",
+    "name": "@sage-bionetworks/esbuild-plugin-svgr",
     "description": "A plugin for esbuild that enables importing *.svg files as React components.",
     "version": "0.0.3",
     "license": "MIT",
